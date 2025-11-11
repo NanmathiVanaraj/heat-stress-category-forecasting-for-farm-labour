@@ -1,0 +1,2 @@
+# heat-stress-category-forecasting-for-farm-labour
+Developed a forecasting system to classify heat stress levels among farm labourers across 19 districts of Tamil Nadu using NASA POWER data (2010–2025). preprocessing, feature engineering, and indices like Heat Index and WBGT.Evaluated statistical, ML, and DL models;Bi-LSTM achieved the best performance for temporal and spatial heat stress analysis.
